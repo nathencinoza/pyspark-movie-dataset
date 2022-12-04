@@ -70,14 +70,12 @@ Los csvs son:
 
 ### Consignas realizadas
 
-+ #####  S8 - ¿Cuál es la descripción con mayor ratio de stopwords? 
++ ##### S8 - ¿Cuál es la descripción con mayor ratio de stopwords? 
 
 + ##### S19 - Top 3-uplas de palabras más populares en las descripciones de las películas removiendo stopwords. 
 
 + ##### S26 - ¿Quién es el crew que trabajó en más tuplas (departamento, películas) distintas? 
 
-+ #####  S14 - ¿Cuál es el usuario cuya velocidad promedio para hacer ratings es mayor?
++ ##### S14 - ¿Cuál es el usuario cuya velocidad promedio para hacer ratings es mayor?
 
-+ ##### C5) ¿Cúal es la película cuya entropía de las ratings que recibe es más alta? Esta será la película con opiniones más variadas. Considere sólo películas con más de 30 ratings.
-
-+ ##### Ej 5 - S32 - ¿Cuál es la mediana de cantidad de crew para las películas? Calcular de forma distribuida. 
++ ##### S32 - ¿Cuál es la mediana de cantidad de crew para las películas? Calcular de forma distribuida. 
